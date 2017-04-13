@@ -18,7 +18,7 @@ $DB_PASS = 'qweasdzx';
 $DB_NAME = 'wp2';
 $mysqli = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 
-$query = "Select * from table_electronics_home_appliances ORDER BY id LIMIT 1 ";
+$query = "Select * from table_electronics_home_appliances ORDER BY id LIMIT 10 ";
 
 $result = $mysqli->query($query) or die($mysqli->error.__LINE__);
 
@@ -55,8 +55,7 @@ function crawleData($url,$imageUrl,$rowID,$subCat){
         $titleRaw3 = translate_to_en_func($titleRaw2);
         $dec = translate_to_en_func($decRaw2);
 
-        $suffix = get_suffix($dec);
-        $title = $titleRaw3." ".$suffix;
+        $title = $titleRaw3." ".get_suffix($dec)." ".$location;
 
         print $title;
 
