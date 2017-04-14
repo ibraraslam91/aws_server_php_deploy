@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="463e676b-bfa3-46b7-bdd5-e97c8e7d3e79" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agriculture.php" afterPath="$PROJECT_DIR$/agriculture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animal.php" afterPath="$PROJECT_DIR$/animal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bikes.php" afterPath="$PROJECT_DIR$/bikes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.php" afterPath="$PROJECT_DIR$/book.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/business.php" afterPath="$PROJECT_DIR$/business.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/electronis.php" afterPath="$PROJECT_DIR$/electronis.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fashion.php" afterPath="$PROJECT_DIR$/fashion.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/furniture.php" afterPath="$PROJECT_DIR$/furniture.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jobs.php" afterPath="$PROJECT_DIR$/jobs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kids.php" afterPath="$PROJECT_DIR$/kids.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile.php" afterPath="$PROJECT_DIR$/mobile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/property.php" afterPath="$PROJECT_DIR$/property.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.php" afterPath="$PROJECT_DIR$/services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vehicles.php" afterPath="$PROJECT_DIR$/vehicles.php" />
-    </list>
+    <list default="true" id="463e676b-bfa3-46b7-bdd5-e97c8e7d3e79" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +14,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -214,11 +199,12 @@
       <workItem from="1491904321428" duration="1200000" />
       <workItem from="1492084103666" duration="5237000" />
       <workItem from="1492092005880" duration="384000" />
+      <workItem from="1492146156173" duration="1279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42492000" />
+    <option name="totallyTimeSpent" value="43771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="21" width="1095" height="843" extended-state="6" />
@@ -297,7 +283,7 @@
         <state relative-caret-position="295">
           <caret line="20" column="86" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="86" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -307,7 +293,7 @@
         <state relative-caret-position="15">
           <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379039" expanded="true" signature="432:488" ph="Select * fro... table_agriculture_food" />
             <marker date="1492092379039" expanded="true" signature="432:489" ph="Select * fro... table_agriculture_food" />
             <marker date="1492092379039" expanded="true" signature="3700:3748" ph="DELETE FROM " />
@@ -320,7 +306,7 @@
         <state relative-caret-position="300">
           <caret line="20" column="71" lean-forward="false" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379439" expanded="true" signature="432:492" ph="Select * fro... table_furniture_home_decor" />
             <marker date="1492092379439" expanded="true" signature="432:493" ph="Select * fro... table_furniture_home_decor" />
             <marker date="1492092379439" expanded="true" signature="3640:3675" ph="DELETE FROM " />
@@ -333,7 +319,7 @@
         <state relative-caret-position="60">
           <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379591" expanded="true" signature="432:477" ph="Select * fro... table_bikes" />
             <marker date="1492092379591" expanded="true" signature="432:478" ph="Select * fro... table_bikes" />
             <marker date="1492092379591" expanded="true" signature="3626:3662" ph="DELETE FROM " />
@@ -346,7 +332,7 @@
         <state relative-caret-position="105">
           <caret line="20" column="71" lean-forward="false" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379395" expanded="true" signature="432:492" ph="Select * fro... table_books_sports_hobbies" />
             <marker date="1492092379395" expanded="true" signature="432:493" ph="Select * fro... table_books_sports_hobbies" />
             <marker date="1492092379395" expanded="true" signature="3640:3688" ph="DELETE FROM " />
@@ -359,7 +345,7 @@
         <state relative-caret-position="135">
           <caret line="20" column="70" lean-forward="false" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092378955" expanded="true" signature="432:491" ph="Select * fro... table_business_industrial" />
             <marker date="1492092378955" expanded="true" signature="432:492" ph="Select * fro... table_business_industrial" />
             <marker date="1492092378955" expanded="true" signature="3703:3751" ph="DELETE FROM " />
@@ -372,7 +358,7 @@
         <state relative-caret-position="90">
           <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379211" expanded="true" signature="432:499" ph="Select * fro... table_electronics_home_appliances" />
             <marker date="1492092379211" expanded="true" signature="432:500" ph="Select * fro... table_electronics_home_appliances" />
             <marker date="1492092379211" expanded="true" signature="3647:3680" ph="DELETE FROM " />
@@ -385,7 +371,7 @@
         <state relative-caret-position="300">
           <caret line="20" column="65" lean-forward="false" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379487" expanded="true" signature="432:486" ph="Select * fro... table_fashion_beauty" />
             <marker date="1492092379487" expanded="true" signature="432:487" ph="Select * fro... table_fashion_beauty" />
             <marker date="1492092379487" expanded="true" signature="3634:3682" ph="DELETE FROM " />
@@ -398,7 +384,7 @@
         <state relative-caret-position="60">
           <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379311" expanded="true" signature="432:476" ph="Select * fro... table_jobs" />
             <marker date="1492092379311" expanded="true" signature="432:477" ph="Select * fro... table_jobs" />
             <marker date="1492092379311" expanded="true" signature="3685:3733" ph="DELETE FROM " />
@@ -411,7 +397,7 @@
         <state relative-caret-position="60">
           <caret line="20" column="71" lean-forward="false" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379151" expanded="true" signature="432:492" ph="Select * fro... table_furniture_home_decor" />
             <marker date="1492092379151" expanded="true" signature="432:493" ph="Select * fro... table_furniture_home_decor" />
             <marker date="1492092379151" expanded="true" signature="3640:3688" ph="DELETE FROM " />
@@ -424,7 +410,7 @@
         <state relative-caret-position="120">
           <caret line="20" column="55" lean-forward="false" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379539" expanded="true" signature="432:476" ph="Select * fro... table_kids" />
             <marker date="1492092379539" expanded="true" signature="432:477" ph="Select * fro... table_kids" />
             <marker date="1492092379539" expanded="true" signature="3624:3672" ph="DELETE FROM " />
@@ -437,7 +423,7 @@
         <state relative-caret-position="105">
           <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379351" expanded="true" signature="432:478" ph="Select * fro... table_mobile" />
             <marker date="1492092379351" expanded="true" signature="432:479" ph="Select * fro... table_mobile" />
             <marker date="1492092379351" expanded="true" signature="3627:3660" ph="DELETE FROM " />
@@ -450,7 +436,7 @@
         <state relative-caret-position="105">
           <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379091" expanded="true" signature="432:480" ph="Select * fro... table_property" />
             <marker date="1492092379091" expanded="true" signature="432:481" ph="Select * fro... table_property" />
             <marker date="1492092379091" expanded="true" signature="3629:3665" ph="DELETE FROM " />
@@ -463,7 +449,7 @@
         <state relative-caret-position="120">
           <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379647" expanded="true" signature="432:480" ph="Select * fro... table_services" />
             <marker date="1492092379647" expanded="true" signature="432:481" ph="Select * fro... table_services" />
             <marker date="1492092379647" expanded="true" signature="3628:3676" ph="DELETE FROM " />
@@ -476,7 +462,7 @@
         <state relative-caret-position="75">
           <caret line="20" column="78" lean-forward="false" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
           <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
+            <element signature="e#6#86#0#PHP" expanded="false" />
             <marker date="1492092379259" expanded="true" signature="432:499" ph="Select * fro... table_electronics_home_appliances" />
             <marker date="1492092379259" expanded="true" signature="432:500" ph="Select * fro... table_electronics_home_appliances" />
             <marker date="1492092379259" expanded="true" signature="3647:3683" ph="DELETE FROM " />
