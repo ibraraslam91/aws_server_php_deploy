@@ -25,15 +25,14 @@ $result = $mysqli->query($query) or die($mysqli->error.__LINE__);
 if($result->num_rows>0){
     while($row = $result->fetch_assoc()) {
         $url = $row['hrefs'];
-        $imageUrl = $row['imageUrl'];
         $rowID = $row['id'];
         $subCat = $row['subCh'];
-        crawleData($url,$imageUrl,$rowID,$subCat);
+        crawleData($url,$rowID,$subCat);
     }
 }
 
 
-function crawleData($url,$imageUrl,$rowID,$subCat){
+function crawleData($url,$rowID,$subCat){
     $output = file_get_contents($url);
     libxml_use_internal_errors(TRUE);
     if(!empty($output)){
@@ -115,7 +114,7 @@ function translate_to_en_func($text){
 
 function removeRow($rowID){
     global $mysqli;
-    $query1 = "DELETE FROM table_books_sports_hobbies WHERE id=$rowID;";
+    $query1 = "DELETE FROM table_jobs WHERE id=$rowID;";
     $result = $mysqli->query($query1) or die($mysqli->error.__LINE__);
 }
 

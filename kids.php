@@ -113,7 +113,7 @@ function translate_to_en_func($text){
 
 function removeRow($rowID){
     global $mysqli;
-    $query1 = "DELETE FROM table_books_sports_hobbies WHERE id=$rowID;";
+    $query1 = "DELETE FROM table_kids WHERE id=$rowID;";
     $result = $mysqli->query($query1) or die($mysqli->error.__LINE__);
 }
 
