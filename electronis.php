@@ -18,7 +18,7 @@ $DB_PASS = 'qweasdzx';
 $DB_NAME = 'wp2';
 $mysqli = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 
-$query = "Select * from table_electronics_home_appliances ORDER BY id LIMIT 10 ";
+$query = "Select * from table_electronics_home_appliances ORDER BY id LIMIT 5 ";
 $result = $mysqli->query($query) or die($mysqli->error.__LINE__);
 
 if($result->num_rows>0){
